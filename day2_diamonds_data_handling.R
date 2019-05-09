@@ -20,7 +20,7 @@ ggplot(data = tb_color, aes(x = color, y = prop)) +
 
 unique(df$color)
 length(df$color)
-unique(length(df$color))
+length(unique(df$color))
 
 df_agg = aggregate(data = df, price ~ cut, FUN = "mean")
 df_agg
