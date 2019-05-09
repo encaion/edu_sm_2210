@@ -27,3 +27,12 @@ df_agg
 
 # write.csv(df_agg, "diamonds_price_cut_mean.csv",
 #           row.names = FALSE)
+
+df_agg2 = aggregate(data = df, price ~ cut + color,
+                    FUN = "mean")
+head(df_agg2)
+
+ggplot(data = df_agg2,
+       aes(x = cut, y = price)) + 
+  geom_col() +
+  facet_wrap(~ color, nrow = 1)
