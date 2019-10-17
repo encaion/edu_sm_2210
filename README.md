@@ -1,5 +1,5 @@
 # 접속 주소
-# [bit.ly/KISA_2019_01](bit.ly/KISA_2019_01)
+# [https://github.com/encaion/lecture_KISA_2019](https://github.com/encaion/lecture_KISA_2019)
 
 # 파일 다운로드 방법
 
