@@ -1,5 +1,5 @@
 # 접속 주소
-# [https://github.com/encaion/lecture_KISA_2019](https://github.com/encaion/lecture_KISA_2019)
+# [https://github.com/encaion/edu_sm_2210](https://github.com/encaion/edu_sm_2210)
 
 # 파일 다운로드 방법
 
@@ -25,20 +25,14 @@
 # 링크 모음
 <b>R download</b>: https://cran.r-project.org <br>
 <b>RStudio download</b>: https://www.rstudio.com/products/rstudio/download/ <br>
-<b>Kaggle</b>: https://kaggle.com <br>
+<b>Adobe Color</b>: https://color.adobe.com/ <br>
+<b>Color Hex</b>: http://www.color-hex.com/ <br>
 <b>ggexts</b>: https://exts.ggplot2.tidyverse.org/ <br>
-<b>map(kor)</b>: https://encaion.wordpress.com/2016/03/13/%ED%95%9C%EA%B5%AD-%ED%96%89%EC%A0%95%EA%B2%BD%EA%B3%84%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%942/ <br>
+<b>map(kor)</b>: https://datadoctorblog.com/2021/01/28/R-Vis-korea-mapping-seoul-stat/<br>
+<b>Kaggle</b>: https://kaggle.com <br>
 <br>
 <b>Cycle Plot</b>: https://encaion.wordpress.com/2016/03/10/drawing-cycle-plot/
 
-
-#### 책
-http://www.yes24.com/Product/Goods/12458880 <br>
-http://www.yes24.com/Product/Goods/17623086 <br>
-http://www.yes24.com/Product/Goods/32454904 <br>
-http://www.yes24.com/Product/Goods/63712128 <br>
-http://www.yes24.com/Product/Goods/12292773 <br>
-http://www.yes24.com/Product/Goods/34925543 <br>
 
 ---------
 # 문의
