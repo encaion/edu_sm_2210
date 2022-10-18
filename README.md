@@ -25,6 +25,7 @@
 # 링크 모음
 <b>R download</b>: https://cran.r-project.org <br>
 <b>RStudio download</b>: https://www.rstudio.com/products/rstudio/download/ <br>
+<b>Data Vis Catalogue</b>: https://datavizcatalogue.com/ <br>
 <b>Adobe Color</b>: https://color.adobe.com/ <br>
 <b>Color Hex</b>: http://www.color-hex.com/ <br>
 <b>ggexts</b>: https://exts.ggplot2.tidyverse.org/ <br>
