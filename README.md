@@ -1,5 +1,5 @@
 # 접속 주소
-# [https://github.com/encaion/edu_sm_2210](https://github.com/encaion/edu_sm_2210)
+# [https://github.com/encaion/edu_sm_2210](https://github.com/encaion/edu_sm_2307)
 
 # 파일 다운로드 방법
 
