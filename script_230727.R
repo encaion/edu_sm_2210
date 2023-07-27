@@ -1,3 +1,8 @@
+# install.packages("psych")
+library("psych")
+df = read.csv("diamonds.csv")
+describe(df)
+
 # install.packages("remotes")
 library("remotes")
 install_github("https://github.com/pablo14/funModeling")
