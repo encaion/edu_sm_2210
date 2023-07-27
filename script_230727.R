@@ -1,0 +1,5 @@
+# install.packages("remotes")
+library("remotes")
+install_github("https://github.com/pablo14/funModeling")
+library("funModeling")
+df_status(df)
